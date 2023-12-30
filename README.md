@@ -18,8 +18,8 @@ This project implements a simple ToDo application using the PERN stack: PostgreS
 - Database: PostgreSQL
 
 ## Live Link 
-``` https://todo-app-brown-seven.vercel.app/
-```
+https://todo-app-brown-seven.vercel.app/
+
 
 ## Installation
 
